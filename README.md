@@ -7,5 +7,4 @@ Workspace
 
 Contributors
 =============
-Juan Camilo Montaña Granados
-Universidad Sergio Arboleda
+Juan Camilo Montaña Granados - Universidad Sergio Arboleda
