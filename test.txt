@@ -1,8 +1,0 @@
-@sequencia1
-AAACGGTTACGG
-AAGGCCCTTA
-AAGCTTC
-+
-@!!+!!++!!++
-@!++!!!++!
-@!+!++!
