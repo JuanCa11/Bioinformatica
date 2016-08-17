@@ -1,14 +1,12 @@
 package Taller1;
 
-public class InverseFastaQ {
-	public StringBuilder cadena;
-	public StringBuilder calidad;
-	public InverseFastaQ(StringBuilder cadena,StringBuilder calidad) {
-		this.cadena = cadena;
-		this.calidad = calidad;
-	}
+public class InverseFasta {
 
-	public String getCadena() {
+	public StringBuilder cadena;
+	public InverseFasta(StringBuilder cadena){
+		this.cadena = cadena;
+	}
+	public String getCadena(){
 		StringBuilder sb =  new StringBuilder();
 		String aux="";
 		for (int i = 0; i < cadena.length(); i++){
